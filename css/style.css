@@ -1,0 +1,41 @@
+/* common style */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.flexible-section {
+    display: flex;
+    padding-bottom: 200px;
+}
+
+.header {
+    margin: 80px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.half-width h1 {
+    font-size: 40px;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.preebook-button {
+    text-decoration: none;
+    background-color: rgb(197, 3, 100);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;   
+}
+
+.collection-heading {
+    text-align: center;
+}
